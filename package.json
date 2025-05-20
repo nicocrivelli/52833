@@ -1,0 +1,23 @@
+{
+  "name": "52833",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicocrivelli/52833.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicocrivelli/52833/issues"
+  },
+  "homepage": "https://github.com/nicocrivelli/52833#readme",
+  "description": "",
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  }
+}
